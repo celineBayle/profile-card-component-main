@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+The page is visible [here](https://app.netlify.com/sites/guileless-vacherin-02d34d/overview)
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
